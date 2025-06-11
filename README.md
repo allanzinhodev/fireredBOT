@@ -59,4 +59,4 @@ A proposta era alcançar um sistema funcional e autônomo, e isso foi atingido c
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/pokemon-firered-bot.git
+   git clone https://github.com/allanzinhodev/fireredBOT.git
