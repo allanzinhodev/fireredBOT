@@ -1,0 +1,38 @@
+
+36
+00000	020054C4	b	h	0	catchCheckFlagAddr
+00001	080000AF	b	h	0	GAMELANG
+00002	02039821	b	h	0	boxSelectedSlotNumbe
+00003	02023C5D	b	s	0	wildTypeAddr
+00004	0203AD30	b	h	0	selectedItemAddr
+00005	020235C8	b	h	0	speciesDexIndexAddr
+00006	020386D0	b	h	0	wildEncounterDataAddr
+00007	0203F3AE	b	h	0	roamerMapGroupNumAddr
+00008	0202402C	b	h	0	wildAddr
+00009	03005010	b	h	0	currBoxNumberPointer
+0000A	03004FA3	b	h	0	battleTurnsCounter
+0000B	02023FF8	b	h	0	onBattleMenu
+0000C	02023FFC	b	h	0	onAttackMenu
+0000D	02020776	b	h	0	onPokeMenu
+0000E	0203B0A9	b	h	0	onPokeMenu?
+0000F	03003529	b	h	0	inBattle
+00010	03007CF0	b	h	0	rivalNameCursor
+00011	0203F196	b	h	0	menuOptionsN
+00012	0203F19E	b	h	0	Menutype?
+00013	0203F194	b	h	0	menuOptionN
+00014	0203707B	b	h	0	onMoving?
+00015	02031DBC	w	h	0	MAP
+00016	02031DB4	w	h	0	previousMap
+00017	02022B4C	b	h	0	currentBattleFlag?
+00018	02036E4E	b	h	0	yPOS
+00019	02036E4C	b	h	0	xPOS
+0001A	02036E50	b	h	0	playerDir
+0001B	0203ADE6	b	h	0	startCursorPos?
+0001C	02039940	b	h	0	martCursorPos
+0001D	02023C08	b	s	0	onBattlePP
+0001E	02023C64	b	h	0	onBattleEnemyHP
+0001F	02023E83	b	h	0	rightYesornoScreen
+00020	02023C0C	b	h	0	onBattleHP
+00021	0203B0EC	b	h	0	screenID?
+00022	0200E728	w	h	0	SCREENID
+00023	02020014	d	h	0	---------bMenu or aMenu
